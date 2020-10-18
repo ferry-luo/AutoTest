@@ -1,0 +1,4 @@
+.idea
+__pycache__
+screenshot/*
+screenshot_by_human_subjectivity/*

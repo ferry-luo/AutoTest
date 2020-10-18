@@ -1,0 +1,5 @@
+2020-09-28 11:52:51 - Y:/SmartGit_DQA_China/HiMirror_UI_AutoTest_B2B/common/run_all.py[line:22] - INFO: ********************Start AutoTest********************
+2020-09-28 11:53:45 - Y:\SmartGit_DQA_China\HiMirror_UI_AutoTest_B2B\common\my_app_auto_test_key_function.py[line:104] - INFO: screenshot success：Y:\SmartGit_DQA_China\HiMirror_UI_AutoTest_B2B\screenshot_by_human_subjectivity\20200928\20200928115339_进入【登录方式】页.png
+2020-09-28 11:54:03 - Y:\SmartGit_DQA_China\HiMirror_UI_AutoTest_B2B\common\my_app_auto_test_key_function.py[line:104] - INFO: screenshot success：Y:\SmartGit_DQA_China\HiMirror_UI_AutoTest_B2B\screenshot_by_human_subjectivity\20200928\20200928115401_【电子邮箱登录】页.png
+2020-09-28 11:54:20 - Y:\SmartGit_DQA_China\HiMirror_UI_AutoTest_B2B\common\my_app_auto_test_key_function.py[line:104] - INFO: screenshot success：Y:\SmartGit_DQA_China\HiMirror_UI_AutoTest_B2B\screenshot_by_human_subjectivity\20200928\20200928115419_登录成功后进入主页.png
+2020-09-28 11:54:22 - Y:/SmartGit_DQA_China/HiMirror_UI_AutoTest_B2B/common/run_all.py[line:42] - INFO: *********************End of AutoTest*********************

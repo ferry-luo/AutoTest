@@ -1,0 +1,12 @@
+2020-09-29 08:18:25 - Y:/python_API_AutoTest_include_excel/common/run_all.py[line:20] - INFO: ********************Start AutoTest********************
+2020-09-29 08:18:27 - Y:/python_API_AutoTest_include_excel/common/run_all.py[line:40] - INFO: *********************End of AutoTest*********************
+2020-09-29 08:19:21 - Y:/python_API_AutoTest_include_excel/common/run_all.py[line:20] - INFO: ********************Start AutoTest********************
+2020-09-29 08:19:22 - Y:\python_API_AutoTest_include_excel\common\ferry_app_auto_test_key_function.py[line:192] - ERROR: 发生错误：eval() arg 1 must be a string, bytes or code object
+2020-09-29 08:19:22 - Y:/python_API_AutoTest_include_excel/common/run_all.py[line:40] - INFO: *********************End of AutoTest*********************
+2020-09-29 09:22:14 - Y:/python_API_AutoTest_include_excel/common/run_all.py[line:34] - INFO: ********************Start AutoTest********************
+2020-09-29 09:22:19 - Y:/python_API_AutoTest_include_excel/common/run_all.py[line:54] - INFO: *********************End of AutoTest*********************
+2020-09-29 09:25:34 - Y:/python_API_AutoTest_include_excel/common/run_all.py[line:34] - INFO: ********************Start AutoTest********************
+2020-09-29 09:25:38 - Y:/python_API_AutoTest_include_excel/common/run_all.py[line:54] - INFO: *********************End of AutoTest*********************
+2020-09-29 09:25:38 - Y:/python_API_AutoTest_include_excel/common/run_all.py[line:19] - INFO: 最新测试报告：2020-09-29092534_XXX_API_AutoTest.html
+2020-09-29 13:28:10 - Y:/python_API_AutoTest_include_excel/common/run_all.py[line:33] - INFO: ********************Start AutoTest********************
+2020-09-29 13:28:18 - Y:/python_API_AutoTest_include_excel/common/run_all.py[line:53] - INFO: *********************End of AutoTest*********************

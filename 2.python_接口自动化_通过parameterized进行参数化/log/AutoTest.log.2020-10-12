@@ -1,0 +1,10 @@
+2020-10-11 17:23:41 - Y:/python_接口自动化_通过parameterized进行参数化/common/run_all.py[line:38] - INFO: ********************自动化测试开始********************
+2020-10-11 17:23:41 - Y:\python_接口自动化_通过parameterized进行参数化\test_case\test_1_查询发布会.py[line:23] - INFO: ********************接口'查询发布会('https://ferry1119.com:8000/query_event_post')'的自动化测试用例执行开始********************
+2020-10-11 17:23:42 - Y:\python_接口自动化_通过parameterized进行参数化\test_case\test_1_查询发布会.py[line:38] - INFO: 用例'存在的发布会名称'的执行状态为:pass
+2020-10-11 17:23:42 - Y:\python_接口自动化_通过parameterized进行参数化\test_case\test_1_查询发布会.py[line:38] - INFO: 用例'不存在的发布会名称'的执行状态为:pass
+2020-10-11 17:23:43 - Y:\python_接口自动化_通过parameterized进行参数化\test_case\test_1_查询发布会.py[line:38] - INFO: 用例'发布会名称为null'的执行状态为:pass
+2020-10-11 17:23:43 - Y:\python_接口自动化_通过parameterized进行参数化\test_case\test_1_查询发布会.py[line:38] - INFO: 用例'发布会名称为其他字符'的执行状态为:pass
+2020-10-11 17:23:43 - Y:\python_接口自动化_通过parameterized进行参数化\test_case\test_1_查询发布会.py[line:47] - INFO: *********************接口'查询发布会('https://ferry1119.com:8000/query_event_post')'的自动化测试用例执行结束*********************
+2020-10-11 17:23:43 - Y:/python_接口自动化_通过parameterized进行参数化/common/run_all.py[line:59] - INFO: *********************自动化测试结束*********************
+2020-10-11 17:23:43 - Y:/python_接口自动化_通过parameterized进行参数化/common/run_all.py[line:66] - INFO: 最新测试生成的报告：XX项目_接口自动化测试报告_2020-10-11-172341.html
+2020-10-11 17:23:44 - Y:/python_接口自动化_通过parameterized进行参数化/common/run_all.py[line:109] - INFO: 邮件已发送成功

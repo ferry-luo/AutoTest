@@ -1,0 +1,9 @@
+2020-09-27 17:03:42 - Y:/python_API_AutoTest_include_excel/common/run_all.py[line:20] - INFO: ********************Start AutoTest********************
+2020-09-27 17:03:44 - Y:\python_API_AutoTest_include_excel\common\ferry_app_auto_test_key_function.py[line:189] - ERROR: 断言不通过：'获取成功' != '获取成'
+- 获取成功
+?    -
++ 获取成
+
+2020-09-27 17:03:46 - Y:/python_API_AutoTest_include_excel/common/run_all.py[line:40] - INFO: *********************End of AutoTest*********************
+2020-09-27 17:04:11 - Y:/python_API_AutoTest_include_excel/common/run_all.py[line:20] - INFO: ********************Start AutoTest********************
+2020-09-27 17:04:15 - Y:/python_API_AutoTest_include_excel/common/run_all.py[line:40] - INFO: *********************End of AutoTest*********************
